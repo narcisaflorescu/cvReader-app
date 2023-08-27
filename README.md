@@ -14,7 +14,7 @@ When the application starts a menu will be shown and the user will be asked to s
 - Insert a CV in the database
 - Read my CV from the database
 - Get list of CV
+- Get filtered list of CV, e.g: only those who graduated in the last year will be shown; the user has a github link
   
 ## Notes
-You can create some filters and only those cvs are returned; e.g: only those who graduated in the last year will be shown; the user has a github link
 Use Json file as database
